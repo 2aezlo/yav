@@ -53,9 +53,11 @@ header {
   margin-right: auto;
   margin-bottom: 0px;
 }
+
 header img {
-  height: 30px;
+  height: 60px;
 }
+
 #bottom {
   display: inline-block;
   width: 290px;
