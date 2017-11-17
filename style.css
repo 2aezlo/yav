@@ -34,9 +34,11 @@ html {
   box-sizing: border-box;
   min-width: 900px;
 }
+
 h1 {
   font-family: 'Montserrat', sans-serif;
   font-weight: normal;
+  color: #00d0ff;
 }
 body {
   margin: 0px;
@@ -86,6 +88,7 @@ a {
 .but:hover {
   box-shadow: 0px 4px 12px 0 rgba(81, 81, 185, 0.4);
 }
+
 .contentDiv {
   box-sizing: border-box;
   color: white;
